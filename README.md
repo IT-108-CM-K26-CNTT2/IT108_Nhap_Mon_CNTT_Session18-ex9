@@ -1,4 +1,4 @@
-# Bài 9: Két Sắt Số Bitwarden Và Chính Sách Mật Khẩu
+# Bài 9: Thiết Kế Kiến Trúc Két Sắt Số Bitwarden Và Chính Sách Mật Khẩu Game Studio
 
 ## Phần 1: Phân tích kiến trúc
 
